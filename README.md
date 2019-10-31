@@ -2,6 +2,12 @@
 Welcome to scientific coding! Everything is fine.
 
 
+## SpIRL
+
+This course has been adapted into an online textbook at [cjtu.github.io/spirl](https://cjtu.github.io/spirl]).
+
+The new course repo is at [github.com/cjtu/spirl](https://github.com/cjtu/spirl). Contributions welcome!
+
 ## Overview
 This short course is targeted at students and scientists looking to get started with scientific programming. It assumes little to no programming experience!
 
